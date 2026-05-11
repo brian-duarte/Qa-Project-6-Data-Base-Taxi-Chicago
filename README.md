@@ -98,4 +98,4 @@ Finding: Flash Cab recorded the highest trip volume during the selected period.
 ## 📂 Project Resources
 
 * **[Scripts/chicago_taxi_queries.sql](./scripts/chicago_taxi_queries.sql)**
-* **[assets/query_results](.assets/query_results)**
+* **[assets/query_results](./assets/query_results)**
