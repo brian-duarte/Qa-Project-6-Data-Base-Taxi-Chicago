@@ -1,3 +1,4 @@
+Total Number of Registered Taxis
 
 chicago_taxi=# SELECT * FROM cabs;   
 chicago_taxi=# SELECT COUNT(DISTINCT cab_id) FROM cabs;
