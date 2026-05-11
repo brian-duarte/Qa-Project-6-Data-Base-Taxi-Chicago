@@ -91,7 +91,7 @@ Finding: Flash Cab recorded the highest trip volume during the selected period.
 ```
 ### Key Findings
 - Identified **5,529 registered taxis**
-- Detected 51 companies with fewer than 100 vehicles
+- **Detected 51 companies** with fewer than 100 vehicles
 - Classified weather conditions into Good/Bad operational categories
 - Ranked taxi companies by trip volume
   
