@@ -1,0 +1,7 @@
+
+chicago_taxi=# SELECT * FROM cabs;   
+chicago_taxi=# SELECT COUNT(DISTINCT cab_id) FROM cabs;
+ count 
+-------
+  5529
+(1 row)
