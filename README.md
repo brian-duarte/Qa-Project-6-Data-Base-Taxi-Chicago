@@ -98,5 +98,4 @@ Finding: Flash Cab recorded the highest trip volume during the selected period.
 ## 📂 Project Resources
 
 * SQL query scripts
-* Analysis report
 * Database screenshots/results
